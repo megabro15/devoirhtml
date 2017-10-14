@@ -1,0 +1,30 @@
+header {
+    text-align: center;
+}
+nav {
+    border: black solid thick; 
+    height: 221px;
+    width: 320px;
+    float: left;
+}
+aside {
+    border: black solid thick; 
+    height: 214px;
+    width: 380px;
+    float: right;
+}
+ img.resize  {
+  max-width:100%;
+  max-height:100%;
+}
+body  {
+    background-image: url("download.jpg")
+       }
+table  {  
+width: 50%;
+height: 65%;
+background-color: grey;
+       }    
+td { 
+    text-align:center;
+     } 
